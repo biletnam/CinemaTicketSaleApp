@@ -1,0 +1,15 @@
+c:\users\serdar\documents\visual studio 2015\Projects\CineMaster\CineMaster\bin\Debug\CineMaster.exe.config
+c:\users\serdar\documents\visual studio 2015\Projects\CineMaster\CineMaster\obj\Debug\CineMaster.csprojResolveAssemblyReference.cache
+c:\users\serdar\documents\visual studio 2015\Projects\CineMaster\CineMaster\obj\Debug\CineMaster.Properties.Resources.resources
+c:\users\serdar\documents\visual studio 2015\Projects\CineMaster\CineMaster\obj\Debug\CineMaster.csproj.GenerateResource.Cache
+c:\users\serdar\documents\visual studio 2015\Projects\CineMaster\CineMaster\bin\Debug\CineMaster.exe
+c:\users\serdar\documents\visual studio 2015\Projects\CineMaster\CineMaster\bin\Debug\CineMaster.pdb
+c:\users\serdar\documents\visual studio 2015\Projects\CineMaster\CineMaster\obj\Debug\CineMaster.exe
+c:\users\serdar\documents\visual studio 2015\Projects\CineMaster\CineMaster\obj\Debug\CineMaster.pdb
+C:\Users\Serdar\Documents\Visual Studio 2015\Projects\CineMaster\CineMaster\obj\Debug\CineMaster.Forms.MainScreen.resources
+C:\Users\Serdar\Documents\Visual Studio 2015\Projects\CineMaster\CineMaster\obj\Debug\CineMaster.Forms.EmployeeForm.resources
+C:\Users\Serdar\Documents\Visual Studio 2015\Projects\CineMaster\CineMaster\obj\Debug\CineMaster.Forms.MovieForm.resources
+C:\Users\Serdar\Documents\Visual Studio 2015\Projects\CineMaster\CineMaster\obj\Debug\CineMaster.Forms.SessionForm.resources
+C:\Users\Serdar\Documents\Visual Studio 2015\Projects\CineMaster\CineMaster\obj\Debug\CineMaster.Forms.LoginForm.resources
+C:\Users\Serdar\Documents\Visual Studio 2015\Projects\CineMaster\CineMaster\obj\Debug\CineMaster.Forms.TheatreForm.resources
+C:\Users\Serdar\Documents\Visual Studio 2015\Projects\CineMaster\CineMaster\obj\Debug\CineMaster.Forms.TicketForm.resources
